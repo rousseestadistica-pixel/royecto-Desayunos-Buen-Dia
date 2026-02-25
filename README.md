@@ -48,8 +48,9 @@ La aplicación `app.R` permite realizar un estudio profundo de esta data:
 1. `app.R`: Código de la aplicación interactiva en R.
 2. `datos_desayunos.xlsx`: Base de datos con los 20 productos.
 3. `README.md`: Este archivo de presentación.
-4. `PROYECTO_DESAYUNO_SALUDABLE.pdf`: Informe técnico completo.
+4. `PROYECTO_DESAYUNO_SALUDABLE_BUEN_DIA: Informe técnico completo.
 
 ---
 **Equipo de Proyecto:**
 👤 Portocarrero Purilla Rodrigo | 👤 Chauca Chavez Yudit | 👤 Keyth Fatima De Luren Mayuri Junchaya | 👤 Caja Casas Tadeo | 👤 Garcia Huachaca Rousse
+
